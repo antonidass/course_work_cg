@@ -1,0 +1,34 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{Введение}{3}{}%
+\contentsline {chapter}{\numberline {1}Аналитическая часть}{5}{}%
+\contentsline {section}{\numberline {1.1}Постановка задачи}{5}{}%
+\contentsline {section}{\numberline {1.2}Описание предметной области}{5}{}%
+\contentsline {section}{\numberline {1.3}Алгоритмы удаления невидимых линий}{5}{}%
+\contentsline {subsection}{\numberline {1.3.1}Алгоритм Робертса}{5}{}%
+\contentsline {subsection}{\numberline {1.3.2}Алгоритм Варнока}{6}{}%
+\contentsline {subsection}{\numberline {1.3.3}Алгоритм Вейлера-Азертона}{7}{}%
+\contentsline {subsection}{\numberline {1.3.4}Алгоритм Z буфера}{7}{}%
+\contentsline {subsection}{\numberline {1.3.5}Выбор алгоритма удаления невидимых граней}{8}{}%
+\contentsline {section}{\numberline {1.4}Алгоритмы закраски}{8}{}%
+\contentsline {subsection}{\numberline {1.4.1}Закраска методом Гуро}{8}{}%
+\contentsline {subsection}{\numberline {1.4.2}Закраска Фонга}{10}{}%
+\contentsline {subsection}{\numberline {1.4.3}Выбор алгоритма закраски}{10}{}%
+\contentsline {section}{\numberline {1.5}Модель освещения}{10}{}%
+\contentsline {subsection}{\numberline {1.5.1}Локальная модель освещения}{10}{}%
+\contentsline {subsection}{\numberline {1.5.2}Глобальная модель освещения}{11}{}%
+\contentsline {subsection}{\numberline {1.5.3}Выбор модели осещения}{11}{}%
+\contentsline {section}{\numberline {1.6}Преобразования}{11}{}%
+\contentsline {subsection}{\numberline {1.6.1}Перенос}{11}{}%
+\contentsline {subsection}{\numberline {1.6.2}Масштабирование}{12}{}%
+\contentsline {subsection}{\numberline {1.6.3}Поворот}{13}{}%
+\contentsline {section}{\numberline {1.7}Вывод}{15}{}%
+\contentsline {chapter}{\numberline {2}Конструкторская часть}{16}{}%
+\contentsline {section}{\numberline {2.1}Требования к программе}{16}{}%
+\contentsline {section}{\numberline {2.2}Полигональная сетка}{16}{}%
+\contentsline {subsection}{\numberline {2.2.1}Построение полигональной сетки}{17}{}%
+\contentsline {section}{\numberline {2.3}Вычисление интенсивности освещения в вершинах треугольника}{19}{}%
+\contentsline {section}{\numberline {2.4}Реализация метода Гуро с использованием Z-буфера}{20}{}%
+\contentsline {section}{\numberline {2.5}Выбор используемых типов и структур данных}{23}{}%
+\contentsline {section}{\numberline {2.6}Вывод}{23}{}%
+\contentsline {chapter}{Заключение}{24}{}%
+\contentsline {chapter}{Список литературы}{25}{}%

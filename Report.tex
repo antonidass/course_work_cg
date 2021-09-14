@@ -1,0 +1,36 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+%\usepackage[14pt]{extsizes}
+\usepackage{listings}
+
+\usepackage{graphicx}
+\graphicspath{{src/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm}
+
+\include{preamble.inc}
+
+\RequirePackage{caption}
+\DeclareCaptionLabelSeparator{defffis}{ --- }
+\captionsetup{justification=centering,labelsep=defffis}
+
+\begin{document}
+
+% \include{00-abstract}
+
+
+
+\tableofcontents
+
+\include{1-intro}
+
+\include{2-analysis}
+\include{3-design}
+
+\include{60-conclusion}
+
+\include{61-biblio}
+
+\end{document}
