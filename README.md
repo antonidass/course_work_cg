@@ -1,1 +1,1 @@
-![Image alt](https://github.com/{antonidass}/{course_work_cg}/raw/{main}/{}/prev.png)
+![Image alt](https://github.com/antonidass/course_work_cg/blob/main/prev.png)
