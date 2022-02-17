@@ -1,0 +1,167 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rogers}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a76282fc7da37d5ff7a77bb37c478c6a}{%
+           family={Роджерс},
+           familyi={Р\bibinitperiod},
+           given={Д.},
+           giveni={Д\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{publisher}{1}{%
+        {Д. Роджерс. — Москва «Мир»}%
+      }
+      \strng{namehash}{a76282fc7da37d5ff7a77bb37c478c6a}
+      \strng{fullhash}{a76282fc7da37d5ff7a77bb37c478c6a}
+      \strng{bibnamehash}{a76282fc7da37d5ff7a77bb37c478c6a}
+      \strng{authorbibnamehash}{a76282fc7da37d5ff7a77bb37c478c6a}
+      \strng{authornamehash}{a76282fc7da37d5ff7a77bb37c478c6a}
+      \strng{authorfullhash}{a76282fc7da37d5ff7a77bb37c478c6a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Алгоритмические основы машинной графики}
+      \field{year}{1989}
+    \endentry
+    \entry{shykin}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=9f796b4e751ef235b513e079fd0a40ff}{%
+           family={Шикин},
+           familyi={Ш\bibinitperiod},
+           given={Е.\bibnamedelimi В.},
+           giveni={Е\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{publisher}{1}{%
+        {М.: ДИАЛОГ–МИФИ}%
+      }
+      \strng{namehash}{9f796b4e751ef235b513e079fd0a40ff}
+      \strng{fullhash}{9f796b4e751ef235b513e079fd0a40ff}
+      \strng{bibnamehash}{9f796b4e751ef235b513e079fd0a40ff}
+      \strng{authorbibnamehash}{9f796b4e751ef235b513e079fd0a40ff}
+      \strng{authornamehash}{9f796b4e751ef235b513e079fd0a40ff}
+      \strng{authorfullhash}{9f796b4e751ef235b513e079fd0a40ff}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Компьютерная графика. Динамика, реалистические изображения}
+      \field{year}{1998}
+      \field{pages}{288}
+      \range{pages}{1}
+    \endentry
+    \entry{bayackovskiy}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Режим доступа: \url{htps://www.graphicon.ru/oldgr/courses/cg99/notes/lect12/prouzis/raytrace.htm} дата обращения: 03.11.2021)}
+      \field{title}{Ю.М. Баяковский. Трассировка лучей из книги Джефа Проузиса [Электронный ресурс]}
+    \endentry
+    \entry{traceproblem}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Режим доступа: \url{https://nvworld.ru/articles/ray-tracing/3/} дата обращения: 03.11.2021)}
+      \field{title}{Проблемы трассировки лучей – из будущего в реальное время [Электронный ресурс]}
+    \endentry
+    \entry{snizko}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=a983adce8384c7b07bdb082b346137f1}{%
+           family={Снижко},
+           familyi={С\bibinitperiod},
+           given={Е.\bibnamedelimi А.},
+           giveni={Е\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{publisher}{1}{%
+        {Балт. гос. техн. ун-т. – СПб.}%
+      }
+      \strng{namehash}{a983adce8384c7b07bdb082b346137f1}
+      \strng{fullhash}{a983adce8384c7b07bdb082b346137f1}
+      \strng{bibnamehash}{a983adce8384c7b07bdb082b346137f1}
+      \strng{authorbibnamehash}{a983adce8384c7b07bdb082b346137f1}
+      \strng{authornamehash}{a983adce8384c7b07bdb082b346137f1}
+      \strng{authorfullhash}{a983adce8384c7b07bdb082b346137f1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Компьютерная графика. Динамика, реалистические изображения}
+      \field{year}{2005}
+      \field{pages}{132}
+      \range{pages}{1}
+    \endentry
+    \entry{cpp}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Режим доступа: \url{https://isocpp.org/} (дата обращения: 24.10.2021)}
+      \field{title}{Standard C++ [Электронный ресурс]}
+    \endentry
+    \entry{qt}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Режим доступа: \url{https://docs.oracle.com/javase/9/docs/api/java/awt/package-summary.html}}
+      \field{title}{Package java.awt [Электронный ресурс]}
+    \endentry
+    \entry{vscode}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Режим доступа: \url{https://www.jetbrains.com/ru-ru/idea/}}
+      \field{title}{IntelliJ IDEA - Code Editing. Redefined}
+    \endentry
+    \entry{i5}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Режим доступа: \url{https://ark.intel.com/content/www/ru/ru/ark/products/124967/intel-core-i5-8250u-processor-6m-cache-up-to-3-40-ghz.html} (дата обращения: 24.10.2021)}
+      \field{title}{Процессор Intel® Core™ i5-8250U [Электронный ресурс]}
+    \endentry
+    \entry{manjaro}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Режим доступа: \url{https://manjaro.org/} (дата обращения: 24.10.2021)}
+      \field{title}{Manjaro - enjoy the simplicity [Электронный ресурс]}
+    \endentry
+    \entry{linux}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Режим доступа: \url{https://www.linux.org.ru/} (дата обращения: 24.10.2021)}
+      \field{title}{LINUX.ORG.RU -- Русская информация об ОС Linux [Электронный ресурс]}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
